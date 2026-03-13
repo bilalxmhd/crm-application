@@ -24,7 +24,3 @@ Start the application and access the dashboard to manage your customer relations
 ## Contributing
 
 Contributions are welcome. Please submit a pull request with your changes.
-
-## License
-
-MIT License
